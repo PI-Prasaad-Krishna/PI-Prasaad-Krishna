@@ -20,6 +20,9 @@ Currently diving deep into:
 - **Web:** React.js, Node.js, Express, MongoDB  
 - **Tools:** Git, VS Code, Postman  
 - **Other:** OpenCV, SpeechRecognition, JWT
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PI-Prasaad-Krishna&layout=compact&theme=radical)
+
+![Prasaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PI-Prasaad-Krishna&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - 📧 [prasaad2005@gmail.com](mailto:prasaad2005@gmail.com)  
