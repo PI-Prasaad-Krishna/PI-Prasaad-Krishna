@@ -7,6 +7,8 @@ Currently diving deep into:
 - 🌐 Full-Stack Web Development  
 - 🧮 Competitive Programming
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PI-Prasaad-Krishna)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌱 I’m Currently Learning
 - Advanced AI concepts like CNNs, RNNs, and emotion recognition
 - Speech-to-text and voice interaction systems in Python
