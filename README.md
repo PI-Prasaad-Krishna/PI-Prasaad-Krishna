@@ -9,8 +9,6 @@ Currently diving deep into:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PI-Prasaad-Krishna)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://komarev.com/ghpvc/?username=PI-Prasaad-Krishna&label=Profile%20views&color=0e75b6&style=flat)
-
 ## 🌱 I’m Currently Learning
 - Advanced AI concepts like CNNs, RNNs, and emotion recognition
 - Speech-to-text and voice interaction systems in Python
