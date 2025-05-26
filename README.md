@@ -18,7 +18,7 @@ Currently diving deep into:
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++, C, JavaScript  
 - **Web:** React.js, Node.js, Express, MongoDB  
-- **Tools:** Git, VS Code, Postman, Figma  
+- **Tools:** Git, VS Code, Postman  
 - **Other:** OpenCV, SpeechRecognition, JWT
 
 ## 📫 Connect with Me
