@@ -1,6 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I'm Prasaad Krishna
+
+## 💻 About Me
+I'm a passionate developer who loves turning ideas into clean, efficient code.  
+Currently diving deep into:
+- 🧠 AI & Deep Learning  
+- 🌐 Full-Stack Web Development  
+- 🧮 Competitive Programming
+
+## 🌱 I’m Currently Learning
+- Advanced AI concepts like CNNs, RNNs, and emotion recognition
+- Speech-to-text and voice interaction systems in Python
+- Full-stack development with the MERN stack
+- Data modeling and predictive analytics for motorsports
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, C, JavaScript  
+- **Web:** React.js, Node.js, Express, MongoDB  
+- **Tools:** Git, VS Code, Postman, Figma  
+- **Other:** OpenCV, SpeechRecognition, JWT
+
+## 📫 Connect with Me
+- 📧 [prasaad2005@gmail.com](mailto:prasaad2005@gmail.com)  
+- 🌐 [GitHub](https://github.com/PI-Prasaad-Krishna)
+- - 💼 [LinkedIn](https://linkedin.com/in/p-i-prasaad-krishna-1b880a290)
+
 
 <!--
+
 **PI-Prasaad-Krishna/PI-Prasaad-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
