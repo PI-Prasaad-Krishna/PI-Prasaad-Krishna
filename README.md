@@ -28,7 +28,7 @@ Currently diving deep into:
 
 ## 📫 Connect with Me
 - 📧 [prasaad2005@gmail.com](mailto:prasaad2005@gmail.com)  
-- 🌐 [GitHub](https://github.com/PI-Prasaad-Krishna)
+- 🌐 [Portfolio](https://prasaad-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/p-i-prasaad-krishna-1b880a290)
 
 
