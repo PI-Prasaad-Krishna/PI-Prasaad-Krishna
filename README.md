@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Prasaad Krishna
 
+[![Profile views](https://komarev.com/ghpvc/?username=PI-Prasaad-Krishna&color=brightgreen)](https://github.com/PI-Prasaad-Krishna)
+[![Followers](https://img.shields.io/github/followers/PI-Prasaad-Krishna?label=Followers&style=social)](https://github.com/PI-Prasaad-Krishna)
+
 ## 💻 About Me
 I'm a passionate developer who loves turning ideas into clean, efficient code.  
 Currently diving deep into:
@@ -31,19 +34,3 @@ Currently diving deep into:
 - 🌐 [Portfolio](https://prasaad-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/p-i-prasaad-krishna-1b880a290)
 
-
-<!--
-
-**PI-Prasaad-Krishna/PI-Prasaad-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
