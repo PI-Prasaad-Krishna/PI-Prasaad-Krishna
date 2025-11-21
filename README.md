@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Prasaad Krishna
 
-[![Profile views](https://komarev.com/ghpvc/?username=PI-Prasaad-Krishna&color=brightgreen)](https://github.com/PI-Prasaad-Krishna)
 [![Followers](https://img.shields.io/github/followers/PI-Prasaad-Krishna?label=Followers&style=social)](https://github.com/PI-Prasaad-Krishna)
 
 ## 💻 About Me
